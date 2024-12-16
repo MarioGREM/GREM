@@ -34,6 +34,9 @@ Note that the `echo = FALSE` parameter was added to the code chunk to prevent pr
 
 opis i kod
 
+```{r iris, echo=FALSE}
+plot(iris)
+```
 
 ## Shiny 
 
