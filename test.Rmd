@@ -33,3 +33,8 @@ Note that the `echo = FALSE` parameter was added to the code chunk to prevent pr
 ## Nowa sekcja
 
 opis i kod
+
+
+## Shiny 
+
+Shiny to pakiet w R do generowania interaktywnych ....
